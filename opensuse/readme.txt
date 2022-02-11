@@ -1,0 +1,1 @@
+https://build.opensuse.org/package/view_file/home:arachnos/far2l/far2l.spec?expand=1
